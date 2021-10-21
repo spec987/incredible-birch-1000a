@@ -18,13 +18,13 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/about",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Contact",
+                "url": "/about",
                 "style": "link"
             },
             {
