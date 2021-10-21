@@ -18,13 +18,13 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/blog",
+                "label": "Tutorial",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Tutorial",
-                "url": "/style-guide",
+                "label": "FAQ",
+                "url": "/blog",
                 "style": "link"
             },
             {
